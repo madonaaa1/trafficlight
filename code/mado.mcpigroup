@@ -1,0 +1,6 @@
+[PROJECTS]
+Count=2
+Project0=..\..\madona\code\madona.mcppi
+Project1=mado.mcppi
+[ActiveProject]
+Index=1
